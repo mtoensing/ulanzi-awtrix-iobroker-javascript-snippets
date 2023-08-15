@@ -21,9 +21,9 @@ ioBroker is an open-source home automation platform that allows you to integrate
 - `ff_fanfare.txt`: A text file containing a melody in RTTTL-format. Needs to be uploaded onto the device.
 - `marctv-api-pull.js`: A snippet for pulling data from the marctv API and displaying it through the Awtrix Adapter.
 - `marctv-notification-with-sound.js`: A snippet for displaying notifications with sound through the Awtrix Adapter using the marctv API.
-- `meross-garage-notification.js`: A snippet for sending garage notifications using the Meross integration and Awtrix Adapter.
-- `meross-merge-values.js`: A snippet demonstrating how to merge values from Meross devices for display on the Awtrix Adapter.
-- `spotify-notification-new-track.js`: A snippet for notifying and displaying new Spotify tracks on the Awtrix Adapter.
+- `meross-garage-notification.js`: A snippet for sending garage notifications using the Meross integration and Awtrix Adapter. Needs the Meross Adapter for ioBroker.
+- `meross-merge-values.js`: A snippet demonstrating how to merge values from Meross devices for display on the Awtrix Adapter. Needs the Meross Adapter for ioBroker.
+- `spotify-notification-new-track.js`: A snippet for notifying and displaying new Spotify tracks on the Awtrix Adapter. Needs the Spotify Adapter for ioBroker.
 
 ## Snippets Included
 
