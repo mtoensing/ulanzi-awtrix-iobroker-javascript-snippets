@@ -1,6 +1,6 @@
 # JavaScript Snippets for ioBroker JavaScript Adapter and Awtrix Adapter
 
-This repository contains a collection of JavaScript snippets designed for use with the [JavaScript Adapter of ioBroker](https://github.com/ioBroker/ioBroker.javascript) and the [Awtrix Adapter](https://github.com/klein0r/ioBroker.awtrix-light) for the Ulanzi TC0001 device.
+This repository contains a collection of JavaScript snippets designed for use with the [JavaScript Adapter](https://github.com/ioBroker/ioBroker.javascript) and the [Awtrix Adapter](https://github.com/klein0r/ioBroker.awtrix-light) for the Ulanzi TC0001 device for [ioBroker](https://iobroker.net/).
 
 ## What is ioBroker?
 
