@@ -2,6 +2,12 @@
 
 This repository contains a collection of JavaScript snippets designed for use with the [JavaScript Adapter](https://github.com/ioBroker/ioBroker.javascript) and the [Awtrix Adapter](https://github.com/klein0r/ioBroker.awtrix-light) for the Ulanzi TC0001 device for [ioBroker](https://iobroker.net/).
 
+## What is Awtrix Adapter and Ulanzi TC0001?
+
+The Awtrix Adapter is a component that connects ioBroker with the Ulanzi TC0001, a device designed for visual notifications and displays. This allows you to create dynamic and interactive displays for notifications, weather updates, time, and more.
+
+[Purchase the Ulanzi TC0001 device here](https://marc.tv/out/smartpixel)
+
 ## What is ioBroker?
 
 ioBroker is an open-source home automation platform that allows you to integrate and control various smart devices and systems in your home. The JavaScript Adapter within ioBroker enables you to write custom scripts and automate actions based on events and conditions.
@@ -15,13 +21,6 @@ ioBroker is an open-source home automation platform that allows you to integrate
 - `meross-garage-notification.js`: A snippet for sending garage notifications using the Meross integration and Awtrix Adapter.
 - `meross-merge-values.js`: A snippet demonstrating how to merge values from Meross devices for display on the Awtrix Adapter.
 - `spotify-notification-new-track.js`: A snippet for notifying and displaying new Spotify tracks on the Awtrix Adapter.
-
-
-## What is Awtrix Adapter and Ulanzi TC0001?
-
-The Awtrix Adapter is a component that connects ioBroker with the Ulanzi TC0001, a device designed for visual notifications and displays. This allows you to create dynamic and interactive displays for notifications, weather updates, time, and more.
-
-To purchase the Ulanzi TC0001 device, visit [marc.tv/out/smartpixel](https://marc.tv/out/smartpixel).
 
 ## Snippets Included
 
