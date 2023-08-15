@@ -6,6 +6,17 @@ This repository contains a collection of JavaScript snippets designed for use wi
 
 ioBroker is an open-source home automation platform that allows you to integrate and control various smart devices and systems in your home. The JavaScript Adapter within ioBroker enables you to write custom scripts and automate actions based on events and conditions.
 
+## Repository Contents
+
+- `basic-example.js`: An example snippet demonstrating basic usage of the Awtrix Adapter and ioBroker JavaScript Adapter.
+- `ff_fanfare.txt`: A text file containing a melody in RTTTL-format. Needs to be uploaded onto the device.
+- `marctv-api-pull.js`: A snippet for pulling data from the marctv API and displaying it through the Awtrix Adapter.
+- `marctv-notification-with-sound.js`: A snippet for displaying notifications with sound through the Awtrix Adapter using the marctv API.
+- `meross-garage-notification.js`: A snippet for sending garage notifications using the Meross integration and Awtrix Adapter.
+- `meross-merge-values.js`: A snippet demonstrating how to merge values from Meross devices for display on the Awtrix Adapter.
+- `spotify-notification-new-track.js`: A snippet for notifying and displaying new Spotify tracks on the Awtrix Adapter.
+
+
 ## What is Awtrix Adapter and Ulanzi TC0001?
 
 The Awtrix Adapter is a component that connects ioBroker with the Ulanzi TC0001, a device designed for visual notifications and displays. This allows you to create dynamic and interactive displays for notifications, weather updates, time, and more.
