@@ -10,7 +10,7 @@ ioBroker is an open-source home automation platform that allows you to integrate
 
 The Awtrix Adapter is a component that connects ioBroker with the Ulanzi TC0001, a device designed for visual notifications and displays. This allows you to create dynamic and interactive displays for notifications, weather updates, time, and more.
 
-To purchasethe Ulanzi TC0001 device, visit [marc.tv/out/smartpixel](https://marc.tv/out/smartpixel).
+To purchase the Ulanzi TC0001 device, visit [marc.tv/out/smartpixel](https://marc.tv/out/smartpixel).
 
 ## Snippets Included
 
