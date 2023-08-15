@@ -1,3 +1,4 @@
+// Please install the Spotify Adapter for ioBroker first.
 // Create a state change listener for spotify-premium.0.player.trackName and spotify-premium.0.player.artistName
 on({ id: 'spotify-premium.0.player.trackName', change: 'ne', ack: true }, function (obj) {
     if (!obj || !obj.state || obj.state.val === null) {
