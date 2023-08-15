@@ -1,4 +1,4 @@
-[![Click to Watch](https://marc.tv/media/2023/08/ulanzi-spotify.jpg)](https://marc.tv/media/2023/08/ulanzi-spotify.mp4)
+[![Click to Watch](https://marc.tv/media/2023/08/ulanzi-awtrix-small.png)](https://marc.tv/media/2023/08/ulanzi-spotify.mp4)
 
 # JavaScript Snippets for ioBroker JavaScript Adapter and Awtrix Adapter
 
