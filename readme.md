@@ -1,3 +1,5 @@
+[![Click to Watch](https://marc.tv/media/2023/08/ulanzi-spotify.jpg)](https://marc.tv/media/2023/08/ulanzi-spotify.mp4)
+
 # JavaScript Snippets for ioBroker JavaScript Adapter and Awtrix Adapter
 
 This repository contains a collection of JavaScript snippets designed for use with the [JavaScript Adapter](https://github.com/ioBroker/ioBroker.javascript) and the [Awtrix Adapter](https://github.com/klein0r/ioBroker.awtrix-light) for the Ulanzi TC0001 device for [ioBroker](https://iobroker.net/).
@@ -7,6 +9,7 @@ This repository contains a collection of JavaScript snippets designed for use wi
 The Awtrix Adapter is a component that connects ioBroker with the Ulanzi TC0001, a device designed for visual notifications and displays. This allows you to create dynamic and interactive displays for notifications, weather updates, time, and more.
 
 [Purchase the Ulanzi TC0001 device here](https://marc.tv/out/smartpixel)
+
 
 ## What is ioBroker?
 
