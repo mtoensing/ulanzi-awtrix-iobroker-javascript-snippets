@@ -1,5 +1,6 @@
 function fetchDataFromAPI() {
     const link = "https://api.marc.tv/";
+    const request = require('request');
 
     request(link, function(error, response, body) {
         if (error) {
